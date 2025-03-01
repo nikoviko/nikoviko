@@ -5,27 +5,27 @@
 
 
 
-hi!! i'm eric. i'm a computer engineering student from brazil. currently, i'm studying applied mathematics and ai.  (˶˃ ᵕ ˂˶)
+oi!! meu nome é eric e sou um estudante de engenharia de computação. minhas áreas de estudo são matemática aplicada e programação (˶˃ ᵕ ˂˶)
 
-i mess around with python, c/c++, and java. also, i'm a polyglot, always learning new languages and exploring different cultures. ୭ ˚. 
-## 𐔌   .  ⋮ find me  .ᐟ  ֹ   ₊ ꒱
+sou poliglota e adoro aprender novos idiomas! no código, minhas linguagens são python, c/c++ e java. ୭ ˚. 
+## 𐔌   .  ⋮ estou aqui  .ᐟ  ֹ   ₊ ꒱
 
 [linkedin][-1] | or just ✉️ [email](ericlbarros2812@gmail.com) | 
 
-## 𐔌   .  ⋮ languages  .ᐟ  ֹ   ₊ ꒱
+## 𐔌   .  ⋮ idiomas  .ᐟ  ֹ   ₊ ꒱
 
-- ₊ ⊹ **german**: b1
-- ₊ ⊹ **english**: c1
-- ₊ ⊹ **portuguese**: native 
+- ₊ ⊹ **alemão**: b1
+- ₊ ⊹ **inglês**: c1
+- ₊ ⊹ **português**: nativo
 
-## 𐔌   .  ⋮ works  .ᐟ  ֹ   ₊ ꒱ 
+## 𐔌   .  ⋮ trabalhos  .ᐟ  ֹ   ₊ ꒱ 
 
-i will upload something soon ! ૮꒰◞ ˕ ◟ ྀི꒱ა
+irei publicar algo em breve ! ૮꒰◞ ˕ ◟ ྀི꒱ა
  
 ## 𐔌   .  ⋮ stats  .ᐟ  ֹ   ₊ ꒱
 
 
-![eric's github stats](https://github-readme-stats.vercel.app/api?username=nikoviko&show_icons=true)
+![minhas estatísticas](https://github-readme-stats.vercel.app/api?username=nikoviko&show_icons=true)
 
 <!--
 
