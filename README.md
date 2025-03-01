@@ -1,7 +1,7 @@
 ## ⋆˚࿔ 𝗲𝗿𝗶𝗰 𝜗𝜚˚⋆
 
 <!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
-<img align='right' src='https://38.media.tumblr.com/49c7d80a83e63912190eb1563ac145a0/tumblr_niaep7xIIW1u8yvdbo1_500.gif' width='100'>
+<img align='right' src='[https://38.media.tumblr.com/49c7d80a83e63912190eb1563ac145a0/tumblr_niaep7xIIW1u8yvdbo1_500.gif](https://i.pinimg.com/originals/4d/3f/d5/4d3fd5c79837384de61fd2ca64da03a7.gif)' width='100'>
 
 
 
