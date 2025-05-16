@@ -7,7 +7,7 @@
 
 oi!! meu nome é eric e sou um estudante de engenharia de computação. minhas áreas de estudo são matemática aplicada e programação (˶˃ ᵕ ˂˶)
 
-sou poliglota e adoro aprender novos idiomas! no código, minhas linguagens são python, c/c++ e java. ୭ ˚. 
+sou poliglota e adoro aprender novos idiomas! no código, minhas linguagens atualmente são c/c++ e java. ୭ ˚. 
 ## 𐔌   .  ⋮ estou aqui  .ᐟ  ֹ   ₊ ꒱
 
 [linkedin][-1] | ou apenas ✉️ [email](ericlbarros2812@gmail.com) | 
