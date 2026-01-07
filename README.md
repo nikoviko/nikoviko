@@ -1,26 +1,26 @@
-## 👋 Olá!
+## 👋 oii !
 
 <img align='right' src='https://user-images.githubusercontent.com/274624/98246874-2e18a800-1f73-11eb-8583-f2c1f7d293f0.gif' width='150'>
 
-Meu nome é **Eric Nicolas**, sou estudante de Engenharia de Computação com forte interesse em **matemática** e **desenvolvimento**. Sou completamente apaixonado por computação e hardware.
+meu nome é **Eric Nicolas**, sou estudante de Engenharia de Computação com forte interesse em **matemática** e **desenvolvimento**. Sou completamente apaixonado por computação e hardware.
 
-Atualmente, minhas principais linguagens de programação são **C/C++**, **C#**, **Python**, **Ruby** e **Java**, e estou sempre buscando expandir meu conhecimento em novas tecnologias e linguagens de programação.
-
----
-
-## 🚀 Habilidades e Interesses
-
-* **Linguagens de Programação:** C/C++, C#, Python, Ruby e Java
-* **Áreas de Estudo:** Matemática Aplicada, Algoritmos, Estruturas de Dados, Desenvolvimento BackEnd, Deep Learning e Machine Learning.
-* **Interesses:** Machine Learning, Ciência de Dados, Sistemas Embarcados, BackEnd.
+atualmente, minhas principais linguagens de programação são **C/C++**, **C#**, **Python** e **Java**, e estou sempre buscando expandir meu conhecimento em novas tecnologias e linguagens de programação.
 
 ---
 
-## 📧 Contato e Conexões
+## 🚀 habilidades e Interesses
 
-* **LinkedIn:** [Eric Nicolas Lima Barros de Almeida](https://www.linkedin.com/in/eric-nicolas-lima-barros-de-almeida-a46a61353/)
+* **linguagens de Programação:** C/C++, C#, Python, Ruby e Java
+* **áreas de Estudo:** Matemática Aplicada, Algoritmos, Estruturas de Dados, Desenvolvimento BackEnd, Deep Learning e Machine Learning.
+* **interesses:** Machine Learning, Ciência de Dados, Sistemas Embarcados, BackEnd.
+
+---
+
+## 📧 contato
+
+* **LinkedIn:** [eric nicolas](https://www.linkedin.com/in/eric-nicolas-lima-barros-de-almeida-a46a61353/)
 * **Email:** [ericlbarros2812@alu.ufc.br](mailto:ericlbarros2812@alu.ufc.br)
-* **Currículo Lattes:** [Eric Nicolas Lima Barros de Almeida](http://lattes.cnpq.br/0731802384100740)
+* **Currículo Lattes:** [Eric Nicolas](http://lattes.cnpq.br/0731802384100740)
 
 ## 🌐 Proficiência em Idiomas
 
