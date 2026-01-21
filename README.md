@@ -11,7 +11,7 @@ atualmente, minhas principais linguagens de programação são **C/C++**, **C#**
 ## 🚀 habilidades e Interesses
 
 * **linguagens de Programação:** C/C++, C#, Python, Ruby e Java
-* **áreas de Estudo:** Matemática Aplicada, Algoritmos, Estruturas de Dados, Desenvolvimento BackEnd, Deep Learning e Machine Learning.
+* **áreas de Estudo:** Desenvolvimento backend com foco em User Experience, Arquitetura de Softwares e princípios de Sistemas Embarcados.
 * **interesses:** Machine Learning, Ciência de Dados, Sistemas Embarcados, BackEnd.
 
 ---
